@@ -8,3 +8,4 @@
 [![CSDN](badges/csdn.svg)](https://blog.csdn.net/m0_65725344)
 [![YouTube](badges/youtube.svg)](https://www.youtube.com/channel/UCQwYZIyTNsYDIOJwLDgI2tA)
 [![X](badges/x.svg)](https://x.com/ian_digilife)
+[![邮箱](badges/email.svg)](mailto:iandigilife@icloud.com)
