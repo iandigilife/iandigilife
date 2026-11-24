@@ -1,11 +1,5 @@
-[![小红书](badges/rednote.svg)](https://www.xiaohongshu.com/user/profile/62f0f967000000001e01f5ce)
-[![抖音](badges/douyin.svg)](https://www.douyin.com/user/MS4wLjABAAAAJf06VZJPWFFl2NpCuXcjVdRxRbFV1U0er9XNEt_IAG_sqqaSWoqfI2fVWSOlyoLO)
-[![哔哩哔哩](badges/bilibili.svg)](https://space.bilibili.com/543787622)
-[![快手](badges/kuaishou.svg)](https://www.kuaishou.com/profile/3x5ccg6d94kzdwy)
-[![微博](badges/weibo.svg)](https://weibo.com/u/7263152040)
-[![微信公众号](badges/wechat.svg)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzE5MTQyNDMzNg%3D%3D#wechat_redirect)
-[![知乎](badges/zhihu.svg)](https://www.zhihu.com/people/toswar)
-[![CSDN](badges/csdn.svg)](https://blog.csdn.net/m0_65725344)
-[![YouTube](badges/youtube.svg)](https://www.youtube.com/channel/UCQwYZIyTNsYDIOJwLDgI2tA)
-[![X](badges/x.svg)](https://x.com/ian_digilife)
-[![邮箱](badges/email.svg)](mailto:iandigilife@icloud.com)
+<h2 align="center">Ian的数字生命</h2>
+
+<p align="center">
+  <a href="mailto:iandigilife@icloud.com"><img src="badges/email.svg" alt="邮箱 · iandigilife@icloud.com"></a>
+</p>
