@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="22" viewBox="0 0 160 22" role="img" aria-labelledby="title">
+  <title id="title">Ian’s Digital Life</title>
+  <style>
+    text { fill: #6B7280; }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #9CA3AF; }
+    }
+  </style>
+  <text x="80" y="16" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="400">Ian’s Digital Life</text>
+</svg>
